@@ -10,5 +10,5 @@ spec:
   type: service
   owner: assaf-enso
   lifecycle: production
-  application: assaf-application-juice
+  system: assaf-application-juice
   
